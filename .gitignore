@@ -1,1 +1,8 @@
 proverka.txt
+*.swp
+key
+Makefile.save
+Makefile.save.1
+file.cpp~
+file~
+
