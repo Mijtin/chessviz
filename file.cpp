@@ -10,7 +10,7 @@ void ClearBoard();
 int main()
 {
     InitBoard();
-    system("PAUSE");
+    
 }
 void InitBoard()
 {
