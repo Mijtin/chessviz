@@ -1,8 +1,7 @@
-proverka.txt
+keymain*
 *.swp
-key
-Makefile.save
-Makefile.save.1
-file.cpp~
-file~
-
+*.o
+*.gch
+*.exe
+build/*.o 
+bin/*
